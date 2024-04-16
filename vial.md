@@ -1,5 +1,7 @@
 # The Vial System
 The Vial System is the system which gives you extra healing when you heal from health orbs or armor.
+> [!IMPORTANT]
+> The Vial System has been delayed and is not in 3.5. It is expected to come in RLSwordigo 4.0.
 
 ## Instructions
 At default, your vial is 0. So, you will get 0 extra healing and as a result, [Ring of Vitality](Baubles.md) would not work because 0*2 = 0.
