@@ -19,7 +19,7 @@ Platforms will never fall when you step on them if you have the Feather Ring.
 # Pendants
 Pendants are a type of Bauble.
 ## Fiery Pendant
-This pendant can be obtained through beating the Fire Boss i.e Fire Dwarf without taking any damage.
+This pendant can be obtained after beating the Fire Boss i.e Fire Dwarf.
 
 Effects: Avoiding lava and immunity\
 You will get 2 seconds of immunity and will be bounced off lava if you have this ring and you step on lava.
