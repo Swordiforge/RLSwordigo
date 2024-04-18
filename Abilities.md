@@ -29,7 +29,9 @@ This ability is a "toggle" ability similar to ability 2. You can enable and disa
 After enabling this ability, your FOV will become wide similar to the FOV in the Swordigo Mod Menu. You will be able to see everything.
 
 ## 4. Immunity
-This ability gives you immunity from all damage for 5 seconds.
+This ability gives you damage immunity for 5 seconds.
+> [!WARNING]
+> Void can still damage you.
 
 ## 5. Dash
 This ability will allow you to "dash" in the direction the player is looking at.
