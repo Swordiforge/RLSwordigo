@@ -40,4 +40,13 @@ Similar to the dash, it will dash in a direction however with a spin animation a
 ## 7. Pot Shield
 This ability will summon a square shield around you. The edges will be open so you can escape from the edges. This shield will despawn after walking away from it.
 
-## 8. (...)
+## 8. SafeChorus
+This ability teleports you to your previous ground location (a safe location).
+
+## 9. TP-Portals
+This ability has two "modes."\To place a portal, you will have to stand still and activate this ability.\To teleport to a placed portal, you would have to activate this ability while jumping.
+
+## 10. Regeneration
+This ability allows you to regenerate upto 5 hearts.
+> [!NOTE]
+> [Ring of Vitality](Baubles.md) can enhance this ability, regenerating upto 10 hearts!
