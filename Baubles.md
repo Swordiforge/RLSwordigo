@@ -8,7 +8,7 @@ This ring can be obtained after defeating the Florennum Boss i.e Overseer withou
 
 Effects: Heals 1 extra heart (2 Health).
 > [!NOTE]
-> This ability will be changed to double your [vial](vial.md) in 4.0.
+> This bauble will be changed to double your [vial](vial.md) in 4.0.
 
 ## Feather Ring
 This ring can be obtained through beating the Parkour at The Plains after Cairnwood Village.
