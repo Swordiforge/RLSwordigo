@@ -6,11 +6,9 @@ Rings are a type of Bauble.
 ## Vitality Ring
 This ring can be obtained after defeating the Florennum Boss i.e Overseer without taking any damage.
 
-Effects: Doubles your [vial](vial.md).\
-The extra healing you get from the vial upgraded through the Greyhedge Healer is doubled due to this ring.\
-For example, if your vial is 1, it will be doubled due to the Ring of Vitality and you would get 2 more health from health orbs and armor heals.
-> [!WARNING]
-> This ability is not guaranteed to work in v3.5.
+Effects: Heals 1 extra heart (2 Health).
+> [!NOTE]
+> This ability will be changed to double your [vial](vial.md) in 4.0.
 
 ## Feather Ring
 This ring can be obtained through beating the Parkour at The Plains after Cairnwood Village.
