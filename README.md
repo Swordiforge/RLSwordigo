@@ -15,6 +15,9 @@ The various Baubles (Accessories) added by RLSwordigo that give the player new p
 ## [Shops](Shops.md)
 RLSwordigo heavily modifies most of the shops found in the Villages.
 
+## [Tweaks](Tweaks.md)
+The various other tweaks added by RLSwordigo that are not listed.
+
 ## [The Vial System](vial.md)
 The system that gives you extra health whenever you heal from health orbs and armor.
 > [!NOTE]
