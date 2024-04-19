@@ -1,6 +1,10 @@
 # RLSwordigo
 RLSwordigo is a Mod for Swordigo aiming to give you the "Swordigo-2" experience. It modifies and adds a lot of features, and is inspired by the famous minecraft modpack, RLCraft.
 
+## Useful Links
+- [Discord Server](https://dsc.gg/swordiforge)
+- [Mod Download](https://www.mediafire.com/file/1ehfahp4nvfefot/RLSwordigo_3.5.apk/file)
+
 # Features
 ## [Abilities](Abilities.md)
 The various new abilities in RLSwordigo that can be activated using Dragons Grasp.
