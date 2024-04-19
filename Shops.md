@@ -24,3 +24,9 @@ The Florennum Marketplace is now a Sorcery Shop. You can buy the Fire Trinket, I
 
 ## Greyhedge Village Shop
 The Greyhedge Village Shop is now a Armor Shop. You can buy armors from it. It is also planned to become a vial shop in future.
+| Item Name | Price |
+|-----------|-------|
+| Plate Armor | 400 |
+| Magic Armor | 700 |
+> [!WARNING]
+> The Greyhedge Shop is meant for a different purpose so its likely that it will be kind of broken in 3.5.
