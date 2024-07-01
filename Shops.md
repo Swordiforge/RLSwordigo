@@ -28,5 +28,6 @@ The Greyhedge Village Shop is now a Armor Shop. You can buy armors from it. It i
 |-----------|-------|
 | Plate Armor | 400 |
 | Magic Armor | 700 |
-> [!WARNING]
-> The Greyhedge Shop is meant for a different purpose so its likely that it will be kind of broken in 3.5.
+| Vial Bottle | 900 |
+> [!TIP]
+> You should check out the [Vial System](vial.md).
