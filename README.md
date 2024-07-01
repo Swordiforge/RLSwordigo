@@ -20,3 +20,6 @@ The various other tweaks added by RLSwordigo that are not listed.
 
 ## [The Vial System](vial.md)
 The system that gives you extra health whenever you heal from health orbs and armor. 
+
+## [The Time System](time.md)
+The system which adds literal time to the game, and adds some other tweaks regarding it.
