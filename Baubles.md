@@ -24,4 +24,11 @@ This pendant can be obtained after beating the Fire Boss i.e Fire Dwarf.
 Effects: Avoiding lava and immunity\
 You will get 2 seconds of immunity and will be bounced off lava if you have this ring and you step on lava.
 
+## Magic Pendant
+This pendant can be obtained by killing the Deadly Mage in Frozen Temple, and getting a rare 1/50 chance. This Pendant is considered one of the rarest Baubles due to the insane grinding, and luck required.
+
+Effects: Whenever you pickup a mana orb, your mana instantly jumps to max. 
+> [!NOTE]
+> This Pendant paired with RLSwordigo's abilities is *very* overpowered.
+
 
