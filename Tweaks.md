@@ -18,3 +18,8 @@ Perhaps a useless tweak, but the Mageblade is now Red!
 
 ## Platform Realism
 Originally, Platforms are only supposed to fall if the player steps on them, but in RLSwordigo, any object can trigger dropping platforms to drop!
+
+## Mimics
+Mimics are Corruptors that disguise themselves as chest, as soon as you open them, they unhide and start ambushing you. They're pretty scary!
+
+
