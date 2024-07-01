@@ -3,7 +3,7 @@ RLSwordigo is a Mod for Swordigo aiming to give you the "Swordigo-2" experience.
 
 ## Useful Links
 - [Discord Server](https://dsc.gg/swordiforge)
-- [Mod Download](https://www.mediafire.com/file/1ehfahp4nvfefot/RLSwordigo_3.5.apk/file)
+- [Mod Download](https://www.mediafire.com/file/erv9eudnqcsw1ef/RLSwordigo+[4.0].apk/file)
 
 # Features
 ## [Abilities](Abilities.md)
@@ -19,6 +19,4 @@ RLSwordigo heavily modifies most of the shops found in the Villages.
 The various other tweaks added by RLSwordigo that are not listed.
 
 ## [The Vial System](vial.md)
-The system that gives you extra health whenever you heal from health orbs and armor.
-> [!NOTE]
-> This system has been delayed, and will come in RLSwordigo 4.0.
+The system that gives you extra health whenever you heal from health orbs and armor. 
